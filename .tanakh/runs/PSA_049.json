@@ -1,0 +1,27 @@
+{
+ "book": "PSA",
+ "chapter": 49,
+ "main": "main",
+ "drafts": {
+  "main": {
+   "run": "main@2026-10-29",
+   "label": "main",
+   "model": "claude (model not recorded)",
+   "code": "6930cb4",
+   "register": "151a1c4a58b8",
+   "built": "2026-10-29",
+   "kind of draft": "main",
+   "screen": {
+    "verbatim": "passed",
+    "threshold": {
+     "run": 10,
+     "share": 0.8,
+     "min_run": 5,
+     "scope": "same verse"
+    },
+    "against": "the team's text",
+    "checked": "2026-11-17"
+   }
+  }
+ }
+}

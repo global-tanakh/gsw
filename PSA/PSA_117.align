@@ -1,0 +1,4 @@
+# full alignment, bcv-commons compact-alignments format (scripts/full_align.py)
+# text 6ad270682db2b9be5defd0a640bf959cdfdc4efa89694b7d508c4851357d54b9
+1	0:0 1:2 2:3 3:4 4:5 5:7 6:8	0:1 1:6 u2	b
+2	0:4 1:2 2:9 3:11 4:14 5:15 6:15	0:0 1:5 2:6 3:1 5:13 u4@6	b
